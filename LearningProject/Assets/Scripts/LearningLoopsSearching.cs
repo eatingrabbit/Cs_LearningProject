@@ -20,7 +20,7 @@ public class LearningLoopsSearching : MonoBehaviour
         {
             if (familyMembers[i] == "Adam")
             {
-                adamsIndex = 1;
+                adamsIndex = i;
                 break;
             }
         }
